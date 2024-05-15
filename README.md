@@ -6,8 +6,8 @@ This repository contains the analysis and visualization of the Titanic dataset. 
 The study examines the Titanic disaster by analyzing data related to passengers’ demographics, ticket information, and survival outcomes. The goal is to identify key factors that influenced survival and to create a predictive model using this information.
 
 ### Contents
-- **Titanic Dataset PPT (1).pptx**: A PowerPoint presentation that details the analysis of the Titanic dataset. It includes steps such as data cleaning, exploratory data analysis, visualizations, and model building to predict survival outcomes based on various factors.
-- **README.md**: Provides an overview of the project, including detailed descriptions of the components and how to use them.
+- **Titanic Dataset PPT.pptx**: A PowerPoint presentation that details the analysis of the Titanic dataset. It includes steps such as data cleaning, exploratory data analysis, visualizations, and model building to predict survival outcomes based on various factors.
+- **Titanic IDS.ipynb**: A Jupyter notebook containing the code for data cleaning, exploratory data analysis, and model building. This notebook provides a step-by-step walkthrough of the analysis process and the development of a predictive model for survival.
 
 #### Dataset Description
 The dataset includes the following columns:
